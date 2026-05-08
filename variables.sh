@@ -1,14 +1,17 @@
 #!/bin/bash
 
-# Variables store data like names, numbers, or text
-# You assign them using =
-
+# Variables store information like text or numbers.
 
 name="Minahil"
 age=16
 
+# Use $ to access variables.
+
 echo "Name: $name"
 echo "Age: $age"
 
-# Added comment about variables
-# Variables store data like names or numbers
+# Common issue:
+# Do not use spaces around =
+
+# Troubleshooting:
+# Check spelling and syntax.
