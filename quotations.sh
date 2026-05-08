@@ -1,14 +1,12 @@
 #!/bin/bash
 
-# Double quotes allow variables
-name="Minahil"
-echo "Hello $name"
+# Double quotes allow variables to work.
+# Single quotes print text exactly as written.
 
-# Single quotes do NOT allow variables
+name="Minahil"
+
+echo "Hello $name"
 echo 'Hello $name'
 
-# Common issue:
-# Using wrong quotes
-
-# Fix:
-# Use "" when you want variables to work
+# Troubleshooting:
+# Use double quotes when using variables.
