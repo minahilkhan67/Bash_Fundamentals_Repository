@@ -1,8 +1,16 @@
-#!/bin//bash
+#!/bin/bash
 
-num=7
+# Conditionals compare values.
 
-if [ $num -lt 10 ]; then
-	echo "Less than 10"
+a=5
+b=10
 
+if [ $a -lt $b ]
+then
+    echo "a is less than b"
 fi
+
+# Operators:
+# -eq equal
+# -gt greater than
+# -lt less than
