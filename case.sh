@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Case statements check multiple options.
+
 echo "Enter a grade:"
 read grade
 
@@ -15,5 +17,5 @@ case $grade in
         ;;
 esac
 
-# Common issue:
-# Missing ;;
+# Troubleshooting:
+# End each case with ;;
