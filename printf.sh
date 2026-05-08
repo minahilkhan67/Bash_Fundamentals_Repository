@@ -1,7 +1,13 @@
 #!/bin/bash
 
-name="Minahil"
-age=16
+# printf formats output neatly.
 
-printf "Name: %s\n" "$name"
-printf "Age: %d\n" "$age"
+name="Minahil"
+
+printf "Hello %s\n" "$name"
+
+# %s = string
+# \n = new line
+
+# Troubleshooting:
+# Use correct format specifiers.
