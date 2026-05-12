@@ -2,6 +2,7 @@
 
 # Redirects send output into files.
 # Redirects help save command output into files.
+# > replaces file contents completely.
 
 echo "This is saved" > file.txt
 
