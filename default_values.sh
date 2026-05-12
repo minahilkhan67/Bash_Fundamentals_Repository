@@ -2,6 +2,7 @@
 
 # Default values are used when no input is provided.
 # Default values help prevent empty outputs.
+# This is useful when users forget arguments.
 
 name=${1:-"Guest"}
 
