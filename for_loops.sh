@@ -3,6 +3,7 @@
 # For loops repeat code multiple times.
 # For loops repeat code for each item in a sequence.
 # The loop variable changes every repetition.
+# Incorrect syntax can stop loops from running.
 
 
 for i in {1..5}
