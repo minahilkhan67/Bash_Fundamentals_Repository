@@ -2,6 +2,7 @@
 
 # Conditionals compare values and make decisions.
 # Operators like -eq and -lt compare numbers.
+# Incorrect operators may cause logic errors.
 
 a=5
 b=10
