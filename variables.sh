@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Variables store information like text or numbers.
+# Variables can store numbers or text values.
 
 name="Minahil"
 age=16
