@@ -8,6 +8,7 @@ count=1
 
 # The loop continues until
 # the condition becomes false.
+# The condition is checked before every loop cycle.
 
 
 while [ $count -le 5 ]
