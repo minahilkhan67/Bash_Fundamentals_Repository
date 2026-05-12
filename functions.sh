@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Functions are reusable blocks of code.
+# Functions can make scripts easier to maintain.
 # They help organize scripts and reduce repetition.
 
 # This function displays a greeting message.
