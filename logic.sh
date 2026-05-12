@@ -2,6 +2,7 @@
 
 # Logical operators combine multiple conditions.
 # && means AND while || means OR.
+# Incorrect spacing can break logical conditions.
 
 age=16
 
