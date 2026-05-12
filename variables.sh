@@ -2,6 +2,7 @@
 
 # Variables can store numbers or text values.
 # Variables are accessed using the $ symbol.
+# Correct syntax is important when assigning values.
 
 name="Minahil"
 age=16
