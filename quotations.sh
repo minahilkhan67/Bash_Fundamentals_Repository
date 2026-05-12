@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Double quotes allow variables to work.
-# Single quotes print text exactly as written.
+# Double quotes allow variables to expand.
 
 name="Minahil"
 
