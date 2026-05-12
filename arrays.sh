@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Arrays store multiple related values together.
+# Array indexes begin at 0 in Bash.
 
 fruits=("apple" "banana" "mango")
 
