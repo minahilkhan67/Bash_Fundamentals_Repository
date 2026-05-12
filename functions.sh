@@ -4,6 +4,7 @@
 # Functions can make scripts easier to maintain.
 # They help organize scripts and reduce repetition.
 # Functions help avoid repeated code.
+# Parameters allow functions to accept user data.
 
 # This function displays a greeting message.
 
