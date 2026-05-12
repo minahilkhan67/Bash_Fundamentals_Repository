@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Conditionals compare values and make decisions.
+# Operators like -eq and -lt compare numbers.
 
 a=5
 b=10
