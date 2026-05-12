@@ -2,6 +2,7 @@
 
 # Arrays store multiple related values together.
 # Array indexes begin at 0 in Bash.
+# Missing quotes may cause spacing problems.
 
 fruits=("apple" "banana" "mango")
 
