@@ -2,6 +2,7 @@
 
 # For loops repeat code multiple times.
 # For loops repeat code for each item in a sequence.
+# The loop variable changes every repetition.
 
 
 for i in {1..5}
