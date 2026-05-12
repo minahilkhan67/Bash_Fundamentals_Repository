@@ -2,11 +2,13 @@
 
 # While loops repeat code while
 # a condition remains true.
+# While loops are useful for repeated tasks.
 
 count=1
 
 # The loop continues until
 # the condition becomes false.
+
 
 while [ $count -le 5 ]
 do
