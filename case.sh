@@ -2,6 +2,7 @@
 
 # Case statements simplify multiple condition checks.
 # Each option ends with ;;
+# Missing ;; can cause syntax problems.
 
 echo "Enter a grade:"
 read grade
