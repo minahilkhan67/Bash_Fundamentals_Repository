@@ -1,14 +1,18 @@
 #!/bin/bash
 
 # Functions are reusable blocks of code.
+# They help organize scripts and reduce repetition.
+
+# This function displays a greeting message.
 
 greet() {
     echo "Hello, $1"
 }
 
-# How it works:
-# $1 stores the first argument passed into the function.
+# $1 represents the first argument passed
+# into the function.
 
+# Calling the function
 greet "Minahil"
 
 # Common issue:
@@ -16,3 +20,4 @@ greet "Minahil"
 
 # Troubleshooting:
 # Make sure the function name matches.
+# Check spelling carefully.
