@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Case statements check multiple options.
+# Case statements simplify multiple condition checks.
 
 echo "Enter a grade:"
 read grade
