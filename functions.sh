@@ -3,6 +3,7 @@
 # Functions are reusable blocks of code.
 # Functions can make scripts easier to maintain.
 # They help organize scripts and reduce repetition.
+# Functions help avoid repeated code.
 
 # This function displays a greeting message.
 
