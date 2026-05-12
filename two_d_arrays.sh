@@ -3,6 +3,7 @@
 # Bash does not support true 2D arrays,
 # but they can be simulated.
 # Two dimensional arrays organize data in rows and columns.
+# Nested loops are needed to access all values.
 
 array=(1 2 3 4 5 6)
 
