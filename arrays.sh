@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Arrays store multiple values.
+# Arrays store multiple related values together.
 
 fruits=("apple" "banana" "mango")
 
