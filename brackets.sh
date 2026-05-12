@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Brackets are used for conditions.
+# Brackets are commonly used in condition checks.
+# Spaces inside brackets are required.
 
 number=10
 
