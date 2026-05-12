@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Default values are used when no input is provided.
+# Default values help prevent empty outputs.
 
 name=${1:-"Guest"}
 
