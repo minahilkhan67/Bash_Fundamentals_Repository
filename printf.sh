@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # printf formats output neatly.
+# printf gives more control over formatting than echo.
 
 name="Minahil"
 
