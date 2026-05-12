@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# The read command gets user input.
+# The read command stores user input in variables.
 
 echo "Enter your name:"
 read name
