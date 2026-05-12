@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Logical operators combine multiple conditions.
 # Logical operators:
 # && = AND
 # || = OR
