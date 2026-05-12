@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Redirects send output into files.
+# Redirects help save command output into files.
 
 echo "This is saved" > file.txt
 
