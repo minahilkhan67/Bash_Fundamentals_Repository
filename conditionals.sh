@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Conditionals compare values.
+# Conditionals compare values and make decisions.
 
 a=5
 b=10
