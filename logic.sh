@@ -1,9 +1,7 @@
 #!/bin/bash
 
 # Logical operators combine multiple conditions.
-# Logical operators:
-# && = AND
-# || = OR
+# && means AND while || means OR.
 
 age=16
 
