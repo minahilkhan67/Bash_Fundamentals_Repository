@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Variables can store numbers or text values.
+# Variables are accessed using the $ symbol.
 
 name="Minahil"
 age=16
