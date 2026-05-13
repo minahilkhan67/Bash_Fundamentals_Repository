@@ -1,21 +1,23 @@
 #!/bin/bash
 
 # For loops repeat code multiple times.
-# For loops repeat code for each item in a sequence.
-# The loop variable changes every repetition.
-# Incorrect syntax can stop loops from running.
+# They are useful for repeating tasks automatically.
 
+# This loop counts from 1 to 5.
 
 for i in {1..5}
 do
     echo "Number: $i"
+
+    # The variable changes each loop.
 done
 
 # How it works:
-# The loop repeats once for each number.
+# The loop runs once for every number
+# in the sequence.
 
 # Common issue:
-# Incorrect loop syntax.
+# Incorrect syntax or missing spaces.
 
 # Troubleshooting:
-# Check brackets and spacing carefully.
+# Check brackets, spacing, and loop structure carefully.
