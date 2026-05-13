@@ -1,28 +1,20 @@
 #!/bin/bash
 
-# Bash does not support true 2D arrays,
-# but they can be simulated.
-# Two dimensional arrays organize data in rows and columns.
-# Nested loops are needed to access all values.
-# Index calculations must be accurate.
+# Bash does not support true two-dimensional arrays
+# like Python, but we can connect arrays logically.
 
-array=(1 2 3 4 5 6)
+# Two-dimensional arrays store data in rows and columns.
+# They are useful for tables, grades, and spreadsheets.
 
-rows=2
-cols=3
+names=("Ali" "Sara" "John")
+grades=(90 85 78)
 
-for ((i=0; i<rows; i++))
+# Matching indexes connect the arrays.
+
+for i in ${!names[@]}
 do
-    for ((j=0; j<cols; j++))
-    do
-        index=$((i * cols + j))
-        echo -n "${array[index]} "
-    done
-    echo ""
+    echo "${names[$i]} scored ${grades[$i]}"
 done
 
-# Common issue:
-# Incorrect index calculations.
-
 # Troubleshooting:
-# Check row and column values carefully.
+# Make sure both arrays have the same number of values.
