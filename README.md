@@ -2,7 +2,7 @@
 This is my Bash Fundamentals Repository!
 
 # What is Bash?
-Bash is a command-line shell used in Linux and Unix systems. It allows users to run commands, automate tasks, manage files, and create scripts. Bash scripting helps make tasks faster and more efficient.
+Bash is a command-line shell used in Linux systems. It allows users to run commands, automate tasks, manage files, and create scripts. Bash scripting helps make tasks faster and more efficient.
 
 
 # Purpose of This Repository
