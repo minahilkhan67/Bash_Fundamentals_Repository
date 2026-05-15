@@ -2,10 +2,11 @@
 
 # Bash does not support true two-dimensional arrays
 # like Python, but we can connect arrays logically.
+
 # Two-dimensional arrays store data in rows and columns.
 # They are useful for tables, grades, and spreadsheets.
 
-names=("Ali" "Sara" "John")
+names=("Fatima" "Zoha" "Minahil")
 grades=(90 85 78)
 
 # Matching indexes connect the arrays.
