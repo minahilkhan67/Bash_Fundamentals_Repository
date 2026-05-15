@@ -2,7 +2,6 @@
 
 # Bash does not support true two-dimensional arrays
 # like Python, but we can connect arrays logically.
-
 # Two-dimensional arrays store data in rows and columns.
 # They are useful for tables, grades, and spreadsheets.
 
