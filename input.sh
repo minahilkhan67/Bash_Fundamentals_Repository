@@ -7,7 +7,7 @@
 echo "Enter your name:"
 read name
 
-echo "Hello, $name"
+echo "Hello, $Fatima"
 
 # Troubleshooting:
 # Make sure variable names match.
