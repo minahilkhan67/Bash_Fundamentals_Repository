@@ -12,8 +12,5 @@ echo "Hello, $name"
 # How it works:
 # If no value is entered, Guest becomes the default.
 
-# Common issue:
-# Incorrect variable syntax.
-
 # Troubleshooting:
 # Use ${variable:-default}
