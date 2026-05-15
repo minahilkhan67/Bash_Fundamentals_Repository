@@ -16,8 +16,5 @@ done
 # The loop runs once for every number
 # in the sequence.
 
-# Common issue:
-# Incorrect syntax or missing spaces.
-
 # Troubleshooting:
 # Check brackets, spacing, and loop structure carefully.
